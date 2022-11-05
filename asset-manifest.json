@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ibrahim-portfilo/static/css/main.924c438f.css",
+    "main.js": "/ibrahim-portfilo/static/js/main.8d9dbe61.js",
+    "static/js/787.9e1c2e02.chunk.js": "/ibrahim-portfilo/static/js/787.9e1c2e02.chunk.js",
+    "static/media/hello.jfif": "/ibrahim-portfilo/static/media/hello.56f472660453502f3b0a.jfif",
+    "static/media/ibrahim.jpeg": "/ibrahim-portfilo/static/media/ibrahim.38026104c02d82921d9c.jpeg",
+    "index.html": "/ibrahim-portfilo/index.html",
+    "main.924c438f.css.map": "/ibrahim-portfilo/static/css/main.924c438f.css.map",
+    "main.8d9dbe61.js.map": "/ibrahim-portfilo/static/js/main.8d9dbe61.js.map",
+    "787.9e1c2e02.chunk.js.map": "/ibrahim-portfilo/static/js/787.9e1c2e02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.924c438f.css",
+    "static/js/main.8d9dbe61.js"
+  ]
+}
