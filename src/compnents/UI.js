@@ -12,6 +12,7 @@ import { GrReactjs } from "react-icons/gr";
 import { BsLinkedin } from "react-icons/bs";
 import { BsGithub } from "react-icons/bs";
 import { BsArrowUpSquareFill } from "react-icons/bs";
+import memorygame from '../memorygame.png';
 
 function UI() {
   
@@ -89,7 +90,20 @@ function UI() {
          </div>
          <h1 className='project' id='projects'>Projects</h1>
          <div className='projects'>
-          <h1>Coming soon!</h1>
+            <div className='memorygame'>
+                <h1>Memory Game</h1>
+                <img src={memorygame} />
+                <div className='teck'>
+                <SiHtml5 className='html1' />
+                <FaCss3Alt className='css1' />
+                <SiJavascript className='javascript1' />
+                </div>
+                <div className='memorygame-links'>
+                    <div><h3 className='livesite'><a href='https://ibrahimseraj.github.io/memory-game/' target='_blank' rel="noreferrer">Live Site</a></h3></div>
+                    <h3>|</h3>
+                    <div><h3 className='projectsgithup'><a href='https://github.com/Ibrahimseraj/memory-game' target='_blank' rel="noreferrer">Githup repo</a></h3></div>
+                </div>
+            </div>
          </div>
          <h1 className='contact' id='contact'>Contact</h1>
          <div className='contacts'>
