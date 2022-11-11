@@ -136,9 +136,13 @@
     transition: transform 150ms 150ms linear;
 }
 
-.html p {
+.html:hover p {
     color: aliceblue;
+}
+
+.html p {
     font-size: medium;
+    color: transparent;
 }
 
 .css {
@@ -148,16 +152,20 @@
     top: 70px;
 }
 
-.css:hover {
-    color: blue;
+.css:hover  {
     cursor: pointer;
     transform: translateY(-10px);
     transition: transform 150ms 150ms linear;
+    color: blue;
+}
+
+.css:hover p {
+    color: aliceblue;
 }
 
 .css p {
-    color: aliceblue;
     font-size: medium;
+    color: transparent;
 }
 
 .sass {
@@ -173,9 +181,13 @@
     transition: transform 150ms 150ms linear;
 }
 
-.sass p {
+.sass:hover p {
     color: aliceblue;
+}
+
+.sass p {
     font-size: medium;
+    color: transparent;
 }
 
 .bootstrap {
@@ -192,9 +204,13 @@
     transition: transform 150ms 150ms linear;
 }
 
-.bootstrap p {
+.bootstrap:hover p {
     color: aliceblue;
+}
+
+.bootstrap p {
     font-size: medium;
+    color: transparent;
 }
 
 .javascript {
@@ -211,9 +227,13 @@
     transition: transform 150ms 150ms linear;
 }
 
-.javascript p {
+.javascript:hover p {
     color: aliceblue;
+}
+
+.javascript p {
     font-size: medium;
+    color: transparent;
 }
 
 .react {
@@ -230,9 +250,13 @@
     transition: transform 150ms 150ms linear;
 }
 
-.react p {
+.react:hover p {
     color: aliceblue;
+}
+
+.react p {
     font-size: medium;
+    color: transparent;
 }
 
 .project {
