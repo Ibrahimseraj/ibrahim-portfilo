@@ -356,6 +356,49 @@
     transition: all 200ms 200ms ease-in;
 }
 
+.r-p-s {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.r-p-s h1 {
+    font-family: 'Cinzel Decorative', cursive;
+    margin-bottom: 70px;
+}
+
+.r-p-s img {
+    width: 80%;
+    border-radius: 20px;
+}
+
+.teck2 {
+    margin-top: 10px;
+}
+
+.html2 {
+    font-size: xx-large;
+    color: blue;
+}
+
+.css2 {
+    font-size: xx-large;
+    margin-left: 10px;
+    color: blue;
+}
+
+.javascript2 {
+    font-size: xx-large;
+    margin-left: 10px;
+    color: yellow;
+}
+
+.r-p-s-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+
 .contact {
     text-align: center;
     font-family: 'Cinzel Decorative', cursive;

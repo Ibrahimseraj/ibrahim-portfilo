@@ -13,6 +13,7 @@ import { BsLinkedin } from "react-icons/bs";
 import { BsGithub } from "react-icons/bs";
 import { BsArrowUpSquareFill } from "react-icons/bs";
 import memorygame from '../memorygame.png';
+import ropasi from '../rock-paper-sissor.png';
 
 function UI() {
   
@@ -102,6 +103,20 @@ function UI() {
                     <div><h3 className='livesite'><a href='https://ibrahimseraj.github.io/memory-game/' target='_blank' rel="noreferrer">Live Site</a></h3></div>
                     <h3>|</h3>
                     <div><h3 className='projectsgithup'><a href='https://github.com/Ibrahimseraj/memory-game' target='_blank' rel="noreferrer">Githup repo</a></h3></div>
+                </div>
+                <div className='r-p-s'>
+                  <h1>rock-paper-sissor</h1>
+                  <img src={ropasi}  />
+                  <div className='teck2'>
+                    <SiHtml5 className='html2' />
+                    <FaCss3Alt className='css2' />
+                    <SiJavascript className='javascript2' />
+                  </div>
+                  <div className='r-p-s-links'>
+                    <div><h3 className='livesite'><a href='https://ibrahimseraj.github.io/rock-paper-sissor/' target='_blank' rel="noreferrer">Live Site</a></h3></div>
+                    <h3>|</h3>
+                    <div><h3 className='projectsgithup'><a href='https://github.com/Ibrahimseraj/rock-paper-sissor' target='_blank' rel="noreferrer">Githup repo</a></h3></div>
+                  </div>
                 </div>
             </div>
          </div>
