@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/ibrahim-portfilo/static/css/main.d6eb1482.css",
-    "main.js": "/ibrahim-portfilo/static/js/main.6cf56b86.js",
-    "static/js/787.9e1c2e02.chunk.js": "/ibrahim-portfilo/static/js/787.9e1c2e02.chunk.js",
+    "main.css": "/ibrahim-portfilo/static/css/main.fc217bd2.css",
+    "main.js": "/ibrahim-portfilo/static/js/main.604259c6.js",
     "static/media/memorygame.png": "/ibrahim-portfilo/static/media/memorygame.f914015a94595e3cb4c9.png",
     "static/media/hello.jfif": "/ibrahim-portfilo/static/media/hello.56f472660453502f3b0a.jfif",
     "static/media/ibrahim.jpeg": "/ibrahim-portfilo/static/media/ibrahim.38026104c02d82921d9c.jpeg",
+    "static/media/Flame.png": "/ibrahim-portfilo/static/media/Flame.245b2be2124057ab7769.png",
     "static/media/rock-paper-sissor.png": "/ibrahim-portfilo/static/media/rock-paper-sissor.0faaac49e07a59a9a508.png",
     "index.html": "/ibrahim-portfilo/index.html",
-    "main.d6eb1482.css.map": "/ibrahim-portfilo/static/css/main.d6eb1482.css.map",
-    "main.6cf56b86.js.map": "/ibrahim-portfilo/static/js/main.6cf56b86.js.map",
-    "787.9e1c2e02.chunk.js.map": "/ibrahim-portfilo/static/js/787.9e1c2e02.chunk.js.map"
+    "main.fc217bd2.css.map": "/ibrahim-portfilo/static/css/main.fc217bd2.css.map",
+    "main.604259c6.js.map": "/ibrahim-portfilo/static/js/main.604259c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6eb1482.css",
-    "static/js/main.6cf56b86.js"
+    "static/css/main.fc217bd2.css",
+    "static/js/main.604259c6.js"
   ]
 }
